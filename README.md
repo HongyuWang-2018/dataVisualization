@@ -1,4 +1,4 @@
 # dataVisualization
-used for recording how i learned data visualization 
+used for recording how i learned data visualization, \n
 keep uploading
 
